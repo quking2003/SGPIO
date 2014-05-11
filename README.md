@@ -1,8 +1,8 @@
-*SGPIO*
-  Look At [SGPIO](http://en.wikipedia.org/wiki/SGPIO).
-  This software and hardware is Indicator Display.
+#SGPIO  
+Look At [SGPIO](http://en.wikipedia.org/wiki/SGPIO).  
+This software and hardware is Indicator Display.
 
-*Files*
+#Files
 Schematics/SGPIO_PIC16F1827.CE3  
 SGPIO Schematics for [BSch3V](http://www.suigyodo.com/online/schsoft.htm).  
 
