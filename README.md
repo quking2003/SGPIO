@@ -13,3 +13,7 @@ src/sgpio_p16f1827.asm
 Source code for PIC16F1827.  
 Assembled by [gpasm](http://gputils.sourceforge.net/).  
 
+#Photos
+![photo1](./Photos/IMG_0248.jpg)  
+![photo2](./Photos/IMG_0255.jpg)  
+
